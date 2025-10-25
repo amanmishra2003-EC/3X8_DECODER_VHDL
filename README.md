@@ -1,4 +1,4 @@
-# 3X8_DECODER_VHDL
+# 3X8-DECODER-VHDL
 
 ## Overview
 <br>
